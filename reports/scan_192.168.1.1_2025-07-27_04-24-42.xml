@@ -1,0 +1,1 @@
+<scan><target>192.168.1.1</target><port><number>53</number><protocol>tcp</protocol><status>open</status><service>domain</service></port><port><number>80</number><protocol>tcp</protocol><status>open</status><service>http</service></port><port><number>443</number><protocol>tcp</protocol><status>open</status><service>https</service></port></scan>
